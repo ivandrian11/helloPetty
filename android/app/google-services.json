@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450443224467",
+    "project_id": "hello-petty",
+    "storage_bucket": "hello-petty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450443224467:android:39e8974b91bb9230343466",
+        "android_client_info": {
+          "package_name": "com.ivandriancode.hello_petty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450443224467-00fmi7909fog3o22s1vldat8iijgb7qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivandriancode.hello_petty",
+            "certificate_hash": "b1e6e104634c4889634df25af56f82a494403ef9"
+          }
+        },
+        {
+          "client_id": "450443224467-7nr7ihf9mp4a4jtji2usi2aeie4bc9jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CW_xH-USkitFCERUSc0GpDsgTIKF5yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450443224467-7nr7ihf9mp4a4jtji2usi2aeie4bc9jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
